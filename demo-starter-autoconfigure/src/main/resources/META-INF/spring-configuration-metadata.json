@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "demo.starter.prefix",
+      "type": "java.lang.String",
+      "description": "demo prefix",
+      "sourceType": "com.leosunstarter.demo.starter.autoconfigure.DemoServiceProperties",
+      "defaultValue": "hello"
+    },
+    {
+      "name": "demo.starter.suffix",
+      "type": "java.lang.String",
+      "description": "demo suffix",
+      "sourceType": "com.leosunstarter.demo.starter.autoconfigure.DemoServiceProperties",
+      "defaultValue": "nice to meet you"
+    }
+  ]
+}

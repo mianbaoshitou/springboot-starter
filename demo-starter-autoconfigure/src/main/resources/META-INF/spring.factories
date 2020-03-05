@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.leosunstarter.demo.starter.autoconfigure.DemoServiceAutoConfiguration
